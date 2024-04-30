@@ -9,8 +9,17 @@
 
 // Example 2
 
+// #include <stdio.h>
+// int main() {
+//    printf(100);
+//    return 0;
+// }
+
+
+// Example 3
+
 #include <stdio.h>
 int main() {
-   printf(100);
+   printf("100");
    return 0;
 }
